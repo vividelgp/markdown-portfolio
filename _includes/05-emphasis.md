@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+
+*My infinite path* 
+
+__I AM LISTENING ARTIC MONKEYS RIGHT NOW__ 🎸
