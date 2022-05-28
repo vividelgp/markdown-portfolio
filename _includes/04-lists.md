@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+I just ❤️ the following topics:
+1. Game development
+2. VR & AR
+3. Web Development 
